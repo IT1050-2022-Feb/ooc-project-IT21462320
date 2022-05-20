@@ -1,3 +1,5 @@
+//IT21369810 - Wickramaarachchi J.C
+
 #include <iostream>
 #include <string>
 #define SIZE1  10

@@ -1,3 +1,5 @@
+//IT21365232 - Bandara U.G.B.D
+
 #include <iostream>
 #include <string>
 #define SIZE1  10
