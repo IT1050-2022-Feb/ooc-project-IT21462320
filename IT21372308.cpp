@@ -1,4 +1,4 @@
-//IT21372308 - Dissanayake W.P.D.B. 
+//IT21372308 - Dissanayake W.P.D.B.
 
 #include <iostream>
 #include <string>
