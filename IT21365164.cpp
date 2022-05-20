@@ -1,4 +1,4 @@
-//IT21365164 - N.A.S.L.Dissanayake
+// IT21365164 - N.A.S.L.Dissanayake
 
 #include <iostream>
 #include <string>
